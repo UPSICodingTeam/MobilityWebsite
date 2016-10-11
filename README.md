@@ -11,4 +11,4 @@ This project has been developed by Dr Hafiz Hanif @ UPSI, Malaysia.
 
 
 
-[screenshot] : https://github.com/UPSICodingTeam/MobilityWebsite/blob/master/thumbnail.png
+[screenshot]: https://github.com/UPSICodingTeam/MobilityWebsite/blob/master/thumbnail.png
